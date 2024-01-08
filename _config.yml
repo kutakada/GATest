@@ -1,4 +1,4 @@
-version:          "0028--30-Dec-2023"
+version:          "0029--08-Jan-2024"
 copyright:        "2021-2023"
 title:            "Jekyll: GitHub Page Template"
 author:           "K.K. Kutakada"
@@ -32,7 +32,7 @@ markdown:         "kramdown"
 urlweb:           "https://template.vlsm.org/"
 urlcontact:       "TBA"
 urlgithub:        "https://github.com/yforku/template/"
-google_analytics: "G-KPSLWHN6H7"
+google_analytics: "G-L52ZFTVYG1"
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
